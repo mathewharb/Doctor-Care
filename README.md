@@ -1,7 +1,7 @@
 # Doctor-Care Software Overview
 
 DoctorCare is a responsive patient management system.
-It is a complete solution for doctors to manage their patient appointments,prescriptions,patient details and also manage billing of particular patient. 
+It is a complete solution for doctors to manage their patient appointments, prescriptions, patient details and also manage billing of patients. 
 This software is built in CodeIgniter and contains the essential parts of clinic operations.
 The system has a user friendly dashboard which will help Doctors keep track of patient information at a glance. 
 DoctorCare provides features such as Patient Management,Tests and Diagnosis Reports, Prescriptions, Billing etc.
